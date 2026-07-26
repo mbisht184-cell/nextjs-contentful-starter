@@ -1,0 +1,42 @@
+{
+  "contact": {
+    "title": "Contact B2B Sales | Global Wholesale Sourcing",
+    "description": "Connect with our procurement team to discuss custom MOQs, bulk pricing, and ethical sourcing partnerships for Himalayan nutraceuticals and artisan crafts."
+  },
+  "agro-tourism": {
+    "title": "Sustainable Eco-Tourism & Himalayan Agro-Tourism",
+    "description": "Experience traceable sourcing firsthand. Exclusive eco-tourism and experiential travel for B2B buyers exploring sustainable agricultural heritage."
+  },
+  "blog": {
+    "title": "B2B Sourcing Trends & Sustainable Supply Insights",
+    "description": "Industry insights on sustainable sourcing, organic nutraceutical trends, and the global market for ethically harvested Himalayan superfoods and crafts."
+  },
+  "terms": {
+    "title": "B2B Purchasing Policies & Wholesale Agreements",
+    "description": "Once you paste these into the respective fields in the CMS and click Publish, Netlify will automatically push the optimised tags live."
+  },
+  "aipan-art": {
+    "title": "Authentic Artisan Handicrafts | Sustainable B2B Decor",
+    "description": "Source premium, ethically made Aipan art directly from artisans. Sustainable, heritage-rich handicrafts and cultural artifacts for luxury retail brands."
+  },
+  "portal": {
+    "title": "B2B Partner Portal | Global Wholesale Management",
+    "description": "Access your dedicated B2B wholesale dashboard. Manage bulk procurement, track sustainable supply chains, and review exclusive pricing for premium goods."
+  },
+  "about": {
+    "title": "Ethically Sourced Himalayan Goods | B2B Supply Chain",
+    "description": "Partner with a transparent, sustainable supply chain. We provide ethically sourced organic botanicals and heritage Uttarakhand crafts for B2B buyers."
+  },
+  "b2b-model": {
+    "title": "B2B Wholesale & Bulk Sourcing | Premium Botanicals",
+    "description": "Secure high-volume, premium grade raw materials and authentic handicrafts. Discover our B2B wholesale pricing, custom MOQs, and global distribution."
+  },
+  "index": {
+    "title": "Premium B2B Wholesale | Sustainable Himalayan Sourcing",
+    "description": "Source wild-harvested Himalayan superfoods, raw botanicals, & artisanal crafts. Global B2B wholesale, traceable supply chains, & sustainable sourcing."
+  },
+  "catalog": {
+    "title": "B2B Catalog | Organic Superfoods & Artisan Crafts",
+    "description": "Browse our wholesale catalog of high-altitude adaptogens like sea buckthorn and nettle, plus artisan-made sustainable decor for luxury retail brands."
+  }
+}
